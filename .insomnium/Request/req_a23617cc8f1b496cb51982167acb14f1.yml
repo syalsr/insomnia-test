@@ -1,0 +1,24 @@
+_id: req_a23617cc8f1b496cb51982167acb14f1
+type: Request
+parentId: wrk_e3a2924c102b4a66a05832fbbd785969
+modified: 1701698540566
+created: 1701698536174
+url: http://mail.ru
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3
+authentication: {}
+metaSortKey: -1701698536174
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
