@@ -1,11 +1,11 @@
 _id: env_78a733eb56e3466c397d332168a7dcf1b61dc85e
 type: Environment
 parentId: wrk_e3a2924c102b4a66a05832fbbd785969
-modified: 1701771518157
+modified: 1701778742795
 created: 1701698530855
 name: Base Environment
 data:
-  TOKEN: "123"
+  TOKEN: ""
   TOKEN1: "321"
 dataPropertyOrder:
   "&":
