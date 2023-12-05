@@ -1,9 +1,9 @@
 _id: req_a23617cc8f1b496cb51982167acb14f1
 type: Request
 parentId: wrk_e3a2924c102b4a66a05832fbbd785969
-modified: 1701698540566
+modified: 1701766987797
 created: 1701698536174
-url: http://mail.ru
+url: http://mail.ru/
 name: New Request
 description: ""
 method: GET
@@ -12,6 +12,12 @@ parameters: []
 headers:
   - name: User-Agent
     value: insomnium/0.2.3
+    id: pair_1a7215bff3ee4295a041006d6f3feccc
+  - id: pair_206cd25475d7439abacdbb1dabea1d82
+    name: Authorization
+    value: "{% response 'raw', 'req_ac6c4999286f410290b60c0919bef86d', '', 'never',
+      60 %}"
+    description: ""
 authentication: {}
 metaSortKey: -1701698536174
 isPrivate: false

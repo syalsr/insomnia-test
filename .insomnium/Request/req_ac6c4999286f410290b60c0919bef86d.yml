@@ -1,9 +1,9 @@
 _id: req_ac6c4999286f410290b60c0919bef86d
 type: Request
 parentId: wrk_e3a2924c102b4a66a05832fbbd785969
-modified: 1701699499766
+modified: 1701763650580
 created: 1701699490796
-url: http://mail.ru
+url: https://product-dev.iam.sbercloud.dev/api/v1/auth/token?client_id=6aea460aee956d620caef1842724e622&client_secret=7bcb7d97b78bb106bdbada167cc681a9
 name: New Request
 description: ""
 method: POST
